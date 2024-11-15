@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure the Google Generative AI API
-genai.configure(api_key="AIzaSyADjRCaXO_MYYYrvYTxFEXf5D-MGUnDN2c")  # Replace with your actual API key
+genai.configure(api_key=" your API Key")  # Replace with your actual API key
 
 # Set up the app layout
 st.title("An AI Code Reviewer")
